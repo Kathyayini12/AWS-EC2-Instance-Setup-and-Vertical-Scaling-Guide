@@ -72,7 +72,7 @@ Save changes
 ![change instance type](https://github.com/user-attachments/assets/92efb97c-30b2-4592-8343-6029f7e56161)
 
 
-## can restrict terminating or stopping accidentally
+## can restrict terminating or stopping or shutdowning instance accidentally
 
 ![enabled termination protection](https://github.com/user-attachments/assets/44516432-cc5b-4673-a1ec-965e89daf038)
 ![shutdown behaviour](https://github.com/user-attachments/assets/c99f36ac-2825-4ad0-91fd-4df006731a2e)
